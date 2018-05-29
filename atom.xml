@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-29T17:03:26.808Z</updated>
+  <updated>2018-05-29T17:56:49.411Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/05/29/%E5%8D%9A%E5%AE%A2%E5%90%8D%E5%AD%97/"/>
     <id>http://yoursite.com/2018/05/29/博客名字/</id>
     <published>2018-05-29T15:48:15.958Z</published>
-    <updated>2018-05-29T17:03:26.808Z</updated>
+    <updated>2018-05-29T17:56:49.411Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: Convolutional neural network co-expression analysis (CNNC)</p><p>date: 2018-05-29 11:48:15</p><p>tags:<br>— data<br>data sources<br>scRNA-seq :<a href="https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5" target="_blank" rel="noopener">https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5</a><br>bulk RNA-seq : </p><p>— code</p><p>code sources:</p><p>— TF-target prediction model for GTRD CHIP-seq database </p><p>— KEGG Pathway prediction model</p><p>— Reactome Pathway prediction model</p><p>— readme</p><p>—- manual</p>]]></content>
+    <content type="html"><![CDATA[<hr><p>title: Convolutional neural network co-expression analysis (CNNC)</p><p>date: 2018-05-29 11:48:15</p><p>tags:<br>— data<br>data sources<br>scRNA-seq :<a href="https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5" target="_blank" rel="noopener">https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5</a><br>bulk RNA-seq : <a href="https://s3.us-east-2.amazonaws.com/mousebulkexprssion/mouse_bulk.h5" target="_blank" rel="noopener">https://s3.us-east-2.amazonaws.com/mousebulkexprssion/mouse_bulk.h5</a></p><p>— code</p><p>code sources:</p><p>— TF-target prediction model for GTRD CHIP-seq database </p><p>— KEGG Pathway prediction model</p><p>— Reactome Pathway prediction model</p><p>— readme</p><p>—- manual</p>]]></content>
     
     <summary type="html">
     
