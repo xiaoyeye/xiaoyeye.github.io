@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-03T03:00:27.233Z</updated>
+  <updated>2018-06-03T03:04:07.620Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/05/29/%E5%8D%9A%E5%AE%A2%E5%90%8D%E5%AD%97/"/>
     <id>http://yoursite.com/2018/05/29/博客名字/</id>
     <published>2018-05-29T15:48:15.958Z</published>
-    <updated>2018-06-03T03:00:27.233Z</updated>
+    <updated>2018-06-03T03:04:07.620Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: Convolutional neural network co-expression analysis (CNNC)</p><p>date: 2018-05-29 </p><p>tags:<br>— data<br>data sources<br>scRNA-seq :<a href="https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5" target="_blank" rel="noopener">https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5</a><br>bulk RNA-seq : <a href="https://s3.us-east-2.amazonaws.com/mousebulkexprssion/mouse_bulk.h5" target="_blank" rel="noopener">https://s3.us-east-2.amazonaws.com/mousebulkexprssion/mouse_bulk.h5</a></p><p>— code</p><p>code sources:</p><p>Trained model for:<br>— TF-target prediction model for GTRD CHIP-seq database </p><p>— KEGG Pathway prediction model</p><p>— Reactome Pathway prediction model</p><p><a href="https://s3.us-east-2.amazonaws.com/mousebulkexprssion/trained+model.zip" target="_blank" rel="noopener">https://s3.us-east-2.amazonaws.com/mousebulkexprssion/trained+model.zip</a></p><p>train model for a new task:<br><a href="https://s3.us-east-2.amazonaws.com/mousebulkexprssion/to+train+model.zip" target="_blank" rel="noopener">https://s3.us-east-2.amazonaws.com/mousebulkexprssion/to+train+model.zip</a><br>— readme</p><p>—- manual</p>]]></content>
+    <content type="html"><![CDATA[<hr><p>title: Convolutional neural network co-expression analysis (CNNC)</p><p>date: 2018-05-29 </p><p>tags:<br>— data<br>data sources<br>scRNA-seq :<a href="https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5" target="_blank" rel="noopener">https://s3.amazonaws.com/scquery/processed_data/expr_data.hdf5</a><br>bulk RNA-seq : <a href="https://s3.us-east-2.amazonaws.com/mousebulkexprssion/mouse_bulk.h5" target="_blank" rel="noopener">https://s3.us-east-2.amazonaws.com/mousebulkexprssion/mouse_bulk.h5</a></p><p>— code</p><p>code sources:</p><p>Trained model for:<br>— TF-target prediction model for GTRD CHIP-seq database </p><p>— KEGG Pathway prediction model</p><p>— Reactome Pathway prediction model</p><p><a href="https://s3.us-east-2.amazonaws.com/mousebulkexprssion/trained+model.zip" target="_blank" rel="noopener">https://s3.us-east-2.amazonaws.com/mousebulkexprssion/trained+model.zip</a></p><p>train model for a new task:<br><a href="https://s3.us-east-2.amazonaws.com/mousebulkexprssion/to+train+model.zip" target="_blank" rel="noopener">https://s3.us-east-2.amazonaws.com/mousebulkexprssion/to+train+model.zip</a><br>— readme<br>Used ‘Trained model’, one can predict if one gene pair can interact as TF-target, KEGG pathway edges or Reactome protein interaction pair.</p><p>Used ‘To train model’,one can define a new predict task. </p><p>—- manual</p>]]></content>
     
     <summary type="html">
     
