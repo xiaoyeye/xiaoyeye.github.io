@@ -319,14 +319,14 @@
 <p>Using ‘To train model’,one can define a new predict task. </p>
 <p>—- manual</p>
 <p>#Trained model:</p>
-<p>#1, users need to provide gene pair candidate list;</p>
-<p>#2, use get_xy_data_cnn_combine_from_database.py to get gene pair’s NEPDF list;<br>Usage: python get_xy_data_cnn_combine_from_database.py bulk_gene_list.txt,sc_gene_list.txt,gene_pair list, bulk expression data , sc exprsssion data</p>
-<p>#3, use predict_no_y.py to do prediction;<br>Usage: predict_no_y.py number of genes in position0, kEGG or GTRD or Reactome</p>
+<p>#step1, users need to provide gene pair candidate list;</p>
+<p>#step2, use get_xy_data_cnn_combine_from_database.py to get gene pair NEPDF list;<br>Usage: python get_xy_data_cnn_combine_from_database.py bulk_gene_list.txt, sc_gene_list.txt, gene_pair list, bulk expression data, sc exprsssion data</p>
+<p>#step3, use predict_no_y.py to do prediction;<br>Usage: predict_no_y.py number of genes in position0, kEGG or GTRD or Reactome</p>
 <p>(In the models are three trained model for GTRD TF-target, KEGG and Reactome database respectively)</p>
 <p>#To train model:</p>
-<p>#1, users need to provide gene pair candidate list and their labels;</p>
-<p>#2, use get_xy_label_data_cnn_combine_from_database.py to get gene pair NEPDF list and their labels;<br>Usage: python get_xy_data_cnn_combine_from_database.py bulk_gene_list.txt,sc_gene_list.txt,gene_pair list, bulk expression data , sc exprsssion data</p>
-<p>#3, use train_with_labels.py to train a new model;<br>Usage: python train_with_labels.py</p>
+<p>#step1, users need to provide gene pair candidate list and their labels;</p>
+<p>#step2, use get_xy_label_data_cnn_combine_from_database.py to get gene pair NEPDF list and their labels;<br>Usage: python get_xy_data_cnn_combine_from_database.py bulk_gene_list.txt, sc_gene_list.txt, gene_pair list, bulk expression data, sc exprsssion data</p>
+<p>#step3, use train_with_labels.py to train a new model;<br>Usage: python train_with_labels.py</p>
 
           
         
